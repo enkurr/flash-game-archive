@@ -1,4 +1,4 @@
-# important flash games
+# Flash Game Archive
  A collection of some of the most famous flash games, or at least the ones that I played a lot.
 
 
